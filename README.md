@@ -1,4 +1,4 @@
-# Salut, moi c'est Mouhamed Sy Touré 👋
+#  Moi , c'est Mouhamed Sy Touré 
 
 **Étudiant en Master 1 Cybersécurité à Ynov Campus Lille** · Orienté SOC & pentest · Développeur full stack web et mobile
 
@@ -17,13 +17,13 @@ Titulaire d'une licence professionnelle en informatique (mention Très Bien), j'
 
   ---
 
-### 🚀 Projets réalisés
+###  Projets réalisés
 
 **🏢 Plateforme de signalement des zones d'insalubrité — en partenariat avec l'ONAS**
 *Office National de l'Assainissement du Sénégal*
 - 📱 **Application mobile** de signalement **géolocalisé** des zones d'insalubrité, avec **capture de photos**, à destination des citoyens et des agents interventions .
 - 💻 **Plateforme web** de suivi des interventions et de **statistiques** pour identifier les zones prioritaires
-- 🧰 Flutter · Angular · Laravel · MySQL 
+-  Flutter · Angular · Laravel · MySQL 
 
 **🏠 SITS Immo — application de gestion locative en ligne** · [sits-immo.com](https://sits-immo.com) · ✅ *En production*
 - Conception, développement et mise en ligne complète de l'application
@@ -49,19 +49,20 @@ Titulaire d'une licence professionnelle en informatique (mention Très Bien), j'
 | 🧰 Outils | Git, GitHub |
 | 🌍 Langues | Français, anglais (intermédiaire), wolof, soninké |
 
-### 🌱 En ce moment
+###  En ce moment
 - Je m'entraîne en pratique sur **Hack The Box**
 - Je renforce mes compétences en sécurité offensive et en analyse SOC .
 
 ---
 
-### 🔒 À propos de mes dépôts
+###  À propos de mes dépôts
 
 Mes projets (clients et académiques) sont en **dépôts privés** pour des raisons de confidentialité.
 👉 **Je peux présenter le code ou faire une démo sur demande**, lors d'un entretien par exemple.
 
 ---
 
-### 📫 Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/mouhamed-sy-toure-17bbb4385)
-- 🌐 [Mon portfolio](https://mouhamedsytoure-ctrl.github.io)
+###  Me contacter
+-  [LinkedIn](https://www.linkedin.com/in/mouhamed-sy-toure-17bbb4385)
+-  [Mon portfolio](https://mouhamedsytoure-ctrl.github.io)
+-  07 49 47 82 11
