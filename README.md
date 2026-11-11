@@ -64,3 +64,4 @@ Mes projets (clients et académiques) sont en **dépôts privés** pour des rais
 
 ### 📫 Me contacter
 - 💼 [LinkedIn](https://www.linkedin.com/in/mouhamed-sy-toure-17bbb4385)
+- 🌐 [Mon portfolio](https://mouhamedsytoure-ctrl.github.io)
